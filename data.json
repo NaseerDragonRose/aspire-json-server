@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "user_1",
+      "name": "John Doe",
+      "email": "john.doe@yopmail.com",
+      "bankBalance": 3000
+    }
+  ],
+  "cards": [
+    {
+      "cardHolderName": "John Doe",
+      "cardNumber": "3962687088051132",
+      "cardCVV": "196",
+      "cardExpiry": "06/31",
+      "isCancelled": false,
+      "isDisabled": false,
+      "userId": "user_1",
+      "id": "36VjNdO"
+    },
+    {
+      "cardHolderName": "John Doe",
+      "cardNumber": "5104685434755788",
+      "cardCVV": "623",
+      "cardExpiry": "04/30",
+      "isCancelled": false,
+      "isDisabled": false,
+      "userId": "user_1",
+      "id": "GoX_oIB"
+    }
+  ]
+}
